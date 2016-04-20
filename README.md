@@ -24,7 +24,7 @@ You can also get FB15k from here: <a href="http://pan.baidu.com/s/1eSvyY46">[dow
 
 Entity types and relation-specific type constraint information for FB15k. <a href="http://pan.baidu.com/s/1c1ChN7i">[download]</a> 
 
-FB15k+ is based on FB15k, including new relations and triples. <a href="http://pan.baidu.com/s/1mitkRRq">[download]</a>
+FB15k+ is a new dataset based on FB15k, including new relations and triples. <a href="http://pan.baidu.com/s/1mitkRRq">[download]</a>
 
 
 # CITE
